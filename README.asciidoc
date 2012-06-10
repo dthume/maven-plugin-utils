@@ -1,0 +1,10 @@
+maven-plugin-utils
+==================
+David Thomas Hume
+:Author Initials: DTH
+
+Utilities for use when developing Maven plugins.
+
+Maven generated project sites are available for the latest
+http://dthume.github.com/maven-plugin-utils/[release] and
+http://dthu.me/projects/maven-plugin-utils/[snapshot] versions.
